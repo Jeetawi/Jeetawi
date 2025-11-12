@@ -55,6 +55,9 @@ Hi! I'm a **PHP developer** specializing in **Laravel** and **Drupal**. I enjoy 
 - **X:** [x.com/jeetawi_](https://x.com/jeetawi_)  
 - **Portfolio:** [ammar-arman.com](https://ammar-arman.com/)
 
+## My Projects
+I’ve worked on **16 projects** (including private ones).
+
 ---
 
 ⭐️ Thanks for visiting my GitHub profile!
