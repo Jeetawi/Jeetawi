@@ -7,41 +7,48 @@ Hi! I'm a **PHP developer** specializing in **Laravel** and **Drupal**. I enjoy 
 ## 🛠️ Tech Stack & Tools
 
 ### Backend
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![Drupal](https://img.shields.io/badge/Backend-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=0C76AB)
-![Go](https://img.shields.io/badge/Backend-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+![PHP](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![Drupal](https://img.shields.io/badge/Drupal-CMS-informational?style=flat&logo=drupal&logoColor=white&color=0C76AB)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
+![Go](https://img.shields.io/badge/Go-Language-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=42B883)
-![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
-![jQuery](https://img.shields.io/badge/Frontend-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)
-![Axios](https://img.shields.io/badge/Frontend-Axios-informational?style=flat&logo=axios&logoColor=white&color=5A29E4)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-Framework-informational?style=flat&logo=vuedotjs&logoColor=42B883&color=35495E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-CSS_Framework-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-Library-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-informational?style=flat&logo=axios&logoColor=white&color=5A29E4)
+
 
 ### Cloud & Deployment
-![Coolify](https://img.shields.io/badge/Deployment-Coolify-informational?style=flat&logo=coolify&color=6C63FF)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=icloud&color=FF9900)
+![Coolify](https://img.shields.io/badge/Coolify-Deployment-informational?style=flat&logo=coolify&logoColor=white&color=6C63FF)
+![AWS](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=icloud&logoColor=white&color=FF9900)
+
 
 ### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&color=2496ED)
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
+![Docker](https://img.shields.io/badge/Docker-Containers-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+
 
 ### DevOps / CI-CD
-![Jenkins](https://img.shields.io/badge/Piplines-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
-![GitHub Actions](https://img.shields.io/badge/Piplines-GitHub-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Pipelines-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
+
 
 ### Web Servers
-![Nginx](https://img.shields.io/badge/Web-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=009639)
-![Apache](https://img.shields.io/badge/Web-Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-informational?style=flat&logo=nginx&logoColor=white&color=009639)
+![Apache](https://img.shields.io/badge/Apache-Web_Server-informational?style=flat&logo=apache&logoColor=white&color=D22128)
+
 
 ### System & Shell
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![Linux](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![Bash](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+
 
 ### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
 
 ---
 
@@ -55,7 +62,7 @@ Hi! I'm a **PHP developer** specializing in **Laravel** and **Drupal**. I enjoy 
 - **X:** [x.com/jeetawi_](https://x.com/jeetawi_)  
 - **Portfolio:** [ammar-arman.com](https://ammar-arman.com/)
 
-## My Projects
+## 📂 My Projects
 I’ve worked on **16 projects** (including private ones).
 
 ---
