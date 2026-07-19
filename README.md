@@ -56,12 +56,6 @@ Hi! I'm a **PHP developer** specializing in **Laravel** and **Drupal**. I enjoy 
 - Advanced Open Source contributions
 - DevOps practices and tools
 - Cloud-native deployment strategies
-
-## 📫 How to reach me
-- **Email:** [contact@ammar-arman.com](mailto:contact@ammar-arman.com)  
-- **X:** [x.com/jeetawi_](https://x.com/jeetawi_)  
-- **Portfolio:** [ammar-arman.com](https://ammar-arman.com/)
-
 ---
 
 ⭐️ Thanks for visiting my GitHub profile!
